@@ -14,7 +14,7 @@ export default class Index extends React.Component {
             <View style={styles.container}>
                 <Text>我是首页什么辣鸡更新这么慢试试</Text>
                 <Text>真的没法玩</Text>
-                <Button>牛逼的按钮</Button>
+                <Button>牛逼的按钮是是</Button>
             </View>
         )
     }

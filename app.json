@@ -11,5 +11,7 @@
     "android": {
       "package": "com.tiny.tianyuankejiApp"
     }
-  }
+  },
+  "name": "tianyuankejiApp",
+  "displayName": "tianyuankejiApp"
 }

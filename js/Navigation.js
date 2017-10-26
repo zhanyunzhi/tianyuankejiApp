@@ -8,6 +8,8 @@ import Detail from './Detail';         //详情页
 const Navigator = StackNavigator({
   Index: {screen: Index},
   Detail: {screen: Detail}
+  },{
+    initialRouteName: 'Detail',
 });
 
 export default class Navigation extends React.Component {

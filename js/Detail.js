@@ -7,11 +7,11 @@ import { Button } from 'antd-mobile';
 
 export default class Detail extends React.Component {
     static navigationOptions = {
-        title: 'ÎÒÊÇÏêÇéÒ³',
+        title: 'æˆ‘æ˜¯è¯¦æƒ…é¡µ',
     };
     render() {
         return (
-            <Text>ÎÒÊÇÏêÇéÒ³</Text>
+            <View><Text>æˆ‘æ˜¯è¯¦æƒ…é¡µæ˜¯ssss</Text><Button type="primary">lll</Button></View>
         )
     }
 }
