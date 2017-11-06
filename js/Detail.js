@@ -11,7 +11,7 @@ export default class Detail extends React.Component {
     };
     render() {
         return (
-            <View><Text>我是详情页是ssss</Text><Button type="primary">lll</Button></View>
+            <View><Text>我是详情页是</Text><Button type="primary">我是按钮</Button></View>
         )
     }
 }
